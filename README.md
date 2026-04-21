@@ -9,21 +9,21 @@ Focused on space systems, satellite navigation, and autonomous aerospace technol
 
 ## 🚀 Engineering Interests
 
+- Spacecraft Navigation Algorithms
 - Satellite Attitude Determination
+- RF Communication Systems
 - GNSS / INS Sensor Fusion
 - Autonomous Navigation Systems
-- RF Communication Systems
-- Spacecraft Navigation Algorithms
-
+  
 ---
 
 ## 🛰️ Current Projects
 
-### AeroNav Fusion AI
-INS/GNSS navigation system using Extended Kalman Filtering to improve positioning accuracy during long-duration flight simulations.
-
 ### Star Sensor Pattern Recognition
 Developing a lost-in-space star identification algorithm for spacecraft attitude determination using computer vision and geometric voting methods.
+
+### AeroNav Fusion AI
+INS/GNSS navigation system using Extended Kalman Filtering to improve positioning accuracy during long-duration flight simulations.
 
 ### PharmaSIM AI
 AI-driven drug simulation platform that predicts effectiveness and side-effect risks using demographic and genomic datasets.
@@ -42,10 +42,11 @@ Kalman Filtering
 Computer Vision  
 RF Communication Systems  
 Signal Processing
+Image Processing
 
 **Tools**
 
-Git • VS Code • Simulink • PSpice
+Git • VS Code • Simulink • PSpice • Linux
 
 ---
 
